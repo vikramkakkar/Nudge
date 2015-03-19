@@ -60,3 +60,8 @@
 .ekko-lightbox .modal-footer {
   text-align: left;
 }
+
+.close {
+    color: #000; 
+    opacity: 1;
+}
