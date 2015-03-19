@@ -61,7 +61,13 @@
   text-align: left;
 }
 
+/* Added */
+
 .close {
     color: #000; 
     opacity: 1;
+}
+
+.modal-title {
+	color: #000;
 }
