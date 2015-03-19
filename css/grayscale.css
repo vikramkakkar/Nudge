@@ -372,10 +372,10 @@ img::-moz-selection {
 	color: #000;
 }
 
-.tablestylerows {
+/*.tablestylerows {
 	margin: 10px 10px;
 	color: #cccccc;
-}
+}*/
 
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
